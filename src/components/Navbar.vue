@@ -31,7 +31,7 @@
                     <div class="hidden sm:ml-6 sm:block">
                         <div class="flex space-x-4">
                             <a href="#" class="btn btn-ghost rounded-md px-3 py-2 text-sm font-medium">About</a>
-                            <a href="#" class="btn btn-ghost rounded-md px-3 py-2 text-sm font-medium">Work</a>
+                            <a href="#" class="btn btn-ghost rounded-md px-3 py-2 text-sm font-medium">Project</a>
                             <a href="#" class="btn btn-ghost rounded-md px-3 py-2 text-sm font-medium">Contact</a>
                         </div>
                     </div>
